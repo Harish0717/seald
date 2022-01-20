@@ -6,3 +6,5 @@ resources:
   - namespace.yaml  
   - release.yaml
   - postgres-release.yaml
+  - sealdsecreate-repo.yaml
+  - secret.yaml
